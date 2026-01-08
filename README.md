@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).<br><br>
+
+<img width="1920" height="847" alt="Clueless_ai_closet-mvp-auth" src="https://github.com/user-attachments/assets/a88711ec-5e82-4949-939b-ae44891e256f" /> <br>
 
 ## Getting Started
 
