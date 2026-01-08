@@ -9,9 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.36.6",
+    "@supabase/supabase-js": "^2.90.0",
     "next": "16.1.1",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "supabase": "^2.71.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
